@@ -1,0 +1,51 @@
+﻿body {
+    margin:0;
+}
+ 
+#wrapper {
+   width:65%;
+   margin:0 auto;
+   border:double;
+   padding:15px;
+}
+
+hr {
+    border-top:1px dotted #000;
+}
+
+#banner {
+    width: 100%;
+}
+
+.labels {
+    display: inline-block;
+    width: 7em;
+    text-align: right;
+    margin-bottom:5px;
+}
+
+.entry {
+    margin-left: 0.5em;
+    width: 15em;
+    margin-bottom: 5px;
+}
+
+#PnlInfo {
+    width:60%;
+    display: inline-block;
+    margin-right: 5px;
+}
+
+#PnlOtherInfo {
+    width: 35%;
+    display: inline-block;
+    vertical-align:top;
+}
+
+#DdlShipping {
+    margin-bottom:20px;
+}
+
+#BtnCheckout {
+    margin-right: 2em;
+}

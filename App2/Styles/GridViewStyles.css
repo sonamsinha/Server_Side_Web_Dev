@@ -1,0 +1,12 @@
+body {
+    width: 60%;
+    margin: 0 auto;
+    font-family: Verdana;
+}
+
+#MyForm {
+    width: 100%;
+    padding: 1em;
+    border-width: 2px;
+    border-style: ridge;
+}
